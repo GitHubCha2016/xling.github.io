@@ -25,7 +25,7 @@ github_username:  GitHubCha2016
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
